@@ -1,0 +1,4 @@
+weights/*.ckpt filter=lfs diff=lfs merge=lfs -text
+weights/*.pt filter=lfs diff=lfs merge=lfs -text
+weights/*.pth filter=lfs diff=lfs merge=lfs -text
+weights/*.tar-60 filter=lfs diff=lfs merge=lfs -text

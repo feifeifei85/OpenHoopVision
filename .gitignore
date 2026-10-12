@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.ruff_cache/
+artifacts/runs/
+artifacts/sessions/
+*.mp4
+# Demo clips shown in README are versioned.
+!assets/demo_17.mp4
+!assets/demo_26.mp4
+!assets/demo_29.mp4
+!assets/demo_30.mp4
+tracks.jsonl

@@ -1,0 +1,13 @@
+# Direct runtime pins for the validated CUDA 13.0 environment.
+--extra-index-url https://download.pytorch.org/whl/cu130
+
+numpy==2.3.5
+opencv-python==5.0.0.93
+pillow==10.2.0
+rfdetr==1.10.1
+scipy==1.18.1
+supervision==0.30.1
+torch==2.12.1+cu130
+torchvision==0.27.1+cu130
+tqdm==4.70.0
+ultralytics==8.4.138
